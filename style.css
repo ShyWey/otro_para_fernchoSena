@@ -9,3 +9,13 @@
     text-align: center;
     color: white;
 }   
+.first-col {
+    text-align: center;
+    background-color: rgb(255, 162, 0);
+    color: white;  
+}
+.third-col {
+    text-align: center;
+    background-color: purple;
+    color: white;  
+}
