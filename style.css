@@ -1,0 +1,11 @@
+.title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', cursive;
+    font-size: 5rem;
+}
+.first-row {
+    display: flex;
+    gap: 10px;
+    margin: 5px, solid, black;
+    text-align: center;
+    color: white;
+}   
